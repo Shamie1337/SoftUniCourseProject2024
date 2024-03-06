@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using SoftUniCourseProject2024.Data;
+using SoftUniCourseProject2024.Infrastructure.Data;
 
 namespace SoftUniCourseProject2024.Extensions
 {

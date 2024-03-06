@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace SoftUniCourseProject2024.Data
+namespace SoftUniCourseProject2024.Infrastructure.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
